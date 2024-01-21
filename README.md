@@ -1,6 +1,6 @@
-# mealsapp
+# Memories
 
-A new Flutter project.
+Store memories that mean something to you.
 
 ## Getting Started
 
